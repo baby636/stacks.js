@@ -39,7 +39,7 @@
   "dependencies": {
     "@stacks/auth": "^1.2.2",
     "@stacks/common": "^1.2.2",
-    "@stacks/encryption": "^1.2.2"
+    "@stacks/encryption": "^1.2.3"
   },
   "devDependencies": {
     "@types/jest": "^24.9.0",
