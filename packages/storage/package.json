@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.9.0",
-    "codecov": "^3.7.2",
+    "codecov": "^3.8.1",
     "jest": "^24.9.0",
     "jest-fetch-mock": "^3.0.3",
     "ts-jest": "^26.4.1",
