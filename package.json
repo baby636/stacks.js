@@ -95,7 +95,7 @@
     "bn.js": "^5.1.1",
     "c32check": "^1.0.1",
     "cors": "^2.8.4",
-    "cross-fetch": "^3.0.5",
+    "cross-fetch": "^3.1.5",
     "depcheck": "^0.8.3",
     "elliptic": "^6.5.3",
     "eslint-plugin-jest": "^23.8.2",
