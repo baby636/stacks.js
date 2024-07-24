@@ -96,7 +96,7 @@
     "c32check": "^1.0.1",
     "cors": "^2.8.4",
     "cross-fetch": "^3.0.5",
-    "depcheck": "^0.8.3",
+    "depcheck": "^1.4.0",
     "elliptic": "^6.5.3",
     "eslint-plugin-jest": "^23.8.2",
     "express-winston": "^3.1.0",
