@@ -48,7 +48,7 @@
     "jest": "^24.9.0",
     "jest-fetch-mock": "^3.0.3",
     "ts-jest": "^26.4.1",
-    "tsdx": "^0.14.0"
+    "tsdx": "^2.0.0"
   },
   "sideEffects": false,
   "main": "dist/index.js",
